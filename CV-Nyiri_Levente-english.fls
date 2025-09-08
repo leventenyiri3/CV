@@ -2,8 +2,8 @@ PWD /home/levente/git/CV
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT CV.tex
-OUTPUT CV.log
+INPUT CV-Nyiri_Levente-english.tex
+OUTPUT CV-Nyiri_Levente-english.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/size10.clo
@@ -142,10 +142,10 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fira/OT1FiraSans-OsF.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/fira/OT1FiraSans-OsF.fd
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-ot1.tfm
-INPUT ./CV.aux
-INPUT ./CV.aux
-INPUT CV.aux
-OUTPUT CV.aux
+INPUT ./CV-Nyiri_Levente-english.aux
+INPUT ./CV-Nyiri_Levente-english.aux
+INPUT CV-Nyiri_Levente-english.aux
+OUTPUT CV-Nyiri_Levente-english.aux
 INPUT /usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -154,7 +154,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.st
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-OUTPUT CV.pdf
+OUTPUT CV-Nyiri_Levente-english.pdf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-ot1.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-osf-ot1.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -193,7 +193,7 @@ INPUT /usr/local/texlive/2025/texmf-dist/fonts/vf/public/fira/FiraSans-Light-osf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-sc-ot1--base.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc
-INPUT CV.aux
+INPUT CV-Nyiri_Levente-english.aux
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb

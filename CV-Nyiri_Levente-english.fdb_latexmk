@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757358226.31958 "CV.tex" "CV.pdf" "CV" 1757358226.82369 0
+["pdflatex"] 1757362714.88471 "CV-Nyiri_Levente-english.tex" "CV-Nyiri_Levente-english.pdf" "CV-Nyiri_Levente-english" 1757362715.39578 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc" 1570828436 2952 6101deaf2e29800c3f438cc30978a854 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc" 1570828436 3152 4a83427ecb5836d2f3a977393b570b77 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1622837620 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -94,11 +94,11 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1754037930 5526361 5adee4aa342457daf971a29efd2119d0 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1754038062 3605723 c1007134c0de2c8854b3f827b4d39407 ""
   "/usr/local/texlive/2025/texmf.cnf" 1754037927.02921 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
+  "CV-Nyiri_Levente-english.aux" 1757362715.34246 2346 0897fe155054f16144ab9caf1e402fc9 "pdflatex"
+  "CV-Nyiri_Levente-english.tex" 1757362713.51994 3901 0d4f539dd4ffcb0d489bc1052f0016e3 ""
   "CV-kep.png" 1757357176.91825 268663 62d7a467703c97f35799f5797062c6d7 ""
-  "CV.aux" 1757358226.77078 2406 104e9f92ee1da54facfbd40d281aae30 "pdflatex"
-  "CV.tex" 1757358225.0334 4168 7992e0561f37df5a5c93e3b97461da35 ""
   (generated)
-  "CV.aux"
-  "CV.log"
-  "CV.pdf"
+  "CV-Nyiri_Levente-english.aux"
+  "CV-Nyiri_Levente-english.log"
+  "CV-Nyiri_Levente-english.pdf"
   (rewritten before read)

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.1)  8 SEP 2025 21:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.8.1)  8 SEP 2025 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**CV.tex
-(./CV.tex
+**CV-Nyiri_Levente-english.tex
+(./CV-Nyiri_Levente-english.tex
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
 (/usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -280,8 +280,8 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/n' in size <10> not available
 (Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/n' will be
 (Font)              scaled to size 10.0pt on input line 31.
- (./CV.aux)
-\openout1 = `CV.aux'.
+ (./CV-Nyiri_Levente-english.aux)
+\openout1 = `CV-Nyiri_Levente-english.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
@@ -426,38 +426,33 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/sc' will be
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 51.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/it' in size <10> not available
-(Font)              Font shape `OT1/FiraSans-OsF/light/it' tried instead on input line 52.
+(Font)              Font shape `OT1/FiraSans-OsF/light/it' tried instead on input line 51.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/it' will be
-(Font)              scaled to size 10.0pt on input line 52.
-
-Overfull \hbox (2.69055pt too wide) in paragraph at lines 102--103
-[]\OT1/FiraSans-OsF/light/n/10 (-20) K[]et szakt[]arsammal egy[]utt k[]esz[]^^Ptett[]uk. ESP32-CAM, mo-torvez[]erl[]o, DC-motorok []es PS4 kon-troller fel-haszn[]al[]as[]aval.
- []
-
+(Font)              scaled to size 10.0pt on input line 51.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <10> not available
-(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 113.
+(Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 111.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 113.
+(Font)              scaled to size 10.0pt on input line 111.
 
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./CV-kep.png>] (./CV.aux)
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc} <./CV-kep.png>] (./CV-Nyiri_Levente-english.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-07-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 16510 strings out of 467801
- 288813 string characters out of 5431917
- 740069 words of memory out of 5000000
- 44920 multiletter control sequences out of 15000+600000
- 668971 words of font info for 81 fonts, out of 8000000 for 9000
+ 16504 strings out of 467801
+ 289062 string characters out of 5431917
+ 732157 words of memory out of 5000000
+ 44912 multiletter control sequences out of 15000+600000
+ 669163 words of font info for 82 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,999b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1021b,529s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb>
-Output written on CV.pdf (1 page, 600542 bytes).
+Output written on CV-Nyiri_Levente-english.pdf (1 page, 598541 bytes).
 PDF statistics:
  70 PDF objects out of 1000 (max. 8388607)
  53 compressed objects within 1 object stream

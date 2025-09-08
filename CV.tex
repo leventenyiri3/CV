@@ -1,0 +1,116 @@
+%-------------------------
+% Rover Resume - Office Template
+% Link: https://github.com/subidit/rover-resume
+%------------------------
+
+\documentclass{article}
+
+\usepackage[sfdefault,light]{FiraSans}
+\usepackage{geometry}
+\geometry{a4paper,margin=0.8in,top=0.5in,bottom=0.5in}
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{fontawesome5}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\setlist[itemize]{leftmargin=*,label=\faCaretRight,itemsep=0pt}
+\usepackage{xcolor}
+\definecolor{background}{HTML}{0D47A1}
+\usepackage[explicit]{titlesec}
+\titleformat{\section}{\large\bfseries\color{white}}{}{}{\colorbox{background}{#1}}
+\titleformat{\subsubsection}{\large\itshape}{}{}{#1}
+\titlespacing{\subsection}{0pt}{*3}{*0.5}
+\titlespacing{\subsubsection}{0pt}{*0}{*0.5}
+
+\newcommand{\rside}[1]{\hfill \normalfont\scshape\MakeLowercase{#1}}
+
+\usepackage[bookmarks=false,hidelinks]{hyperref}
+
+\begin{document}
+
+\begin{center}
+  \begin{minipage}{0.45\textwidth}
+    {\Huge\bfseries NYIRI LEVENTE}
+  \end{minipage}\hfill
+  \begin{minipage}{0.3\textwidth}
+    \faPhone\ +36 30 352 2867 \\
+    \href{mailto:nyiri.levente3@gmail.com}{\faEnvelope\ nyiri.levente3@gmail.com} \\
+  \end{minipage}
+  \begin{minipage}{0.2\textwidth}
+    \includegraphics[width=\linewidth]{CV-kep.png}
+  \end{minipage}
+\end{center}
+
+\section{\faGraduationCap\enspace Tanulmányok}
+%==========
+\subsection{Budapesti Műszaki és Gazdaságtudományi Egyetem}
+\subsubsection{Villamosmérnök Bsc \rside{2021.09.01 - 2025.01.31}}
+\begin{itemize}
+  \item \textit{Számítógép-alapú
+rendszerek specializáció (AUT)}
+\end{itemize}
+\subsubsection{Villamosmérnök Msc \rside{2025.02.01 - JELEN}}
+\begin{itemize}
+  \item \textit{Vezetéknélküli kommunikációs rendszerek főspecializáció (HVT)}
+\end{itemize}
+\begin{itemize}
+  \item \textit{FPGA alapú rendszerek mellékspecializáció (MIT)}
+\end{itemize}
+
+\section{\faChartPie\enspace Tapasztalat}
+%================
+\subsection{AITIA International, Inc.}
+\subsubsection{IoT gyakornok \rside{2024.06-2025.02}}
+\begin{itemize}
+  \item Beágyazott szoftverfejlesztés egy Raspberry Pi alapú rendszerre
+\end{itemize}
+\subsubsection{Hardverfejlesztő mérnök \rside{2025.02-2025.08}}
+\begin{itemize}
+  \item Kapcsolási rajz és NYÁK tervezés
+  \item 3D tervezés és 3D nyomtatás 
+  \item Beültetés, összeszerelés, tesztelés
+\end{itemize}
+Fogyasztás és költség optimalizálás miatt vált szükségessé az új NYÁK. Ez már Raspberry Pi helyett ESP-32 alapú lett. Az eszköz akkumulátorról működik, amit egy napelem tölt. Eső-álló 3D nyomtatott dobozban van.
+\section{\faFlask\enspace Releváns projectek}
+%==========
+
+\subsection{Mezőgazdasági IoT: Seregélyraj felismerő rendszer (Bsc szakdolgozat és TDK 2.hely)}
+\begin{itemize}
+  \item Raspberry Pi alapú eszköz kiegészítő hardverrel. Pythonban beágyazott kód fejlesztése. A TDK-t hárman írtuk.
+\end{itemize}
+
+\subsection{\enquote{Persistence of vision} kijelző készítése}
+\begin{itemize}
+  \item STM32 uController, ledek, ledvezérlő áram kimenetű shift-registerek és a
+gyorsulásérzékelő segítségével tetszőleges szöveg és ábra megjelenítése. Vastagkliens alkalmazás hozzá .NET alapokon.
+\end{itemize}
+
+\subsection{Média szerver}
+\begin{itemize}
+  \item Docker konténerekben futnak az Arr-stack programjai. Jelenleg csak lokális hálózatról érhető el.
+\end{itemize}
+
+\subsection{Snake játék EFM32 Giant Gecko starter kit-re}
+\begin{itemize}
+  \item C-ben, egy szaktársammal együtt.
+\end{itemize}
+
+\subsection{Távirányítós autó kamerával}
+\begin{itemize}
+  \item Két szaktársammal együtt készítettük. ESP32-CAM, motorvezérlő, DC-motorok és PS4 kontroller felhasználásával. A képet egy weboldalra streamelte.
+\end{itemize}
+
+\subsection{Webshop}
+\begin{itemize}
+  \item Egyetemen opcionális házifeladat. PHP-ban, az adatbázist MYSQL-ben.
+\end{itemize}
+
+\section{\faCogs\enspace Készségek}
+%========
+\begin{description}
+  \item Angol C1, C, Altium designer, Onshape, 3D nyomtatás
+\end{description}
+
+\end{document}

@@ -1,0 +1,112 @@
+%-------------------------
+% Rover Resume - Office Template
+% Link: https://github.com/subidit/rover-resume
+%------------------------
+
+\documentclass{article}
+
+\usepackage[sfdefault,light]{FiraSans}
+\usepackage{geometry}
+\geometry{a4paper,margin=0.8in,top=0.5in,bottom=0.5in}
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{fontawesome5}
+\usepackage{enumitem}
+\usepackage{csquotes}
+\setlist[itemize]{leftmargin=*,label=\faCaretRight,itemsep=0pt}
+\usepackage{xcolor}
+\definecolor{background}{HTML}{0D47A1}
+\usepackage[explicit]{titlesec}
+\titleformat{\section}{\large\bfseries\color{white}}{}{}{\colorbox{background}{#1}}
+\titleformat{\subsubsection}{\large\itshape}{}{}{#1}
+\titlespacing{\subsection}{0pt}{*3}{*0.5}
+\titlespacing{\subsubsection}{0pt}{*0}{*0.5}
+
+\newcommand{\rside}[1]{\hfill \normalfont\scshape\MakeLowercase{#1}}
+
+\usepackage[bookmarks=false,hidelinks]{hyperref}
+
+\begin{document}
+
+\begin{center}
+  \begin{minipage}{0.45\textwidth}
+    {\Huge\bfseries NYIRI LEVENTE}
+  \end{minipage}\hfill
+  \begin{minipage}{0.3\textwidth}
+    \faPhone\ +36 30 352 2867 \\
+    \href{mailto:nyiri.levente3@gmail.com}{\faEnvelope\ nyiri.levente3@gmail.com} \\
+    \faMapMarker\ 2045 Törökbálint, Magyarország
+    \faCalendar\ 2000. 07. 14.         % Date of birth
+  \end{minipage}
+  \begin{minipage}{0.2\textwidth}
+    \includegraphics[width=\linewidth]{CV-kep.png}
+  \end{minipage}
+\end{center}
+
+\section{\faGraduationCap\enspace Tanulmányok}
+%==========
+\subsection{Budapesti Műszaki és Gazdaságtudományi Egyetem}
+\subsubsection{Villamosmérnök Bsc \rside{2021.09.01 - 2025.01.31}}
+\begin{itemize}
+  \item \textit{Számítógép-alapú
+rendszerek specializáció (AUT)}
+\end{itemize}
+\subsubsection{Villamosmérnök Msc \rside{2025.02.01 - JELEN}}
+\begin{itemize}
+  \item \textit{Vezetéknélküli kommunikációs rendszerek főspecializáció (HVT)}
+\end{itemize}
+\begin{itemize}
+  \item \textit{FPGA alapú rendszerek mellékspecializáció (MIT)}
+\end{itemize}
+
+\section{\faChartPie\enspace Tapasztalat}
+%================
+\subsection{AITIA International, Inc.}
+\subsubsection{IoT gyakornok \rside{2024.06-2025.02}}
+\begin{itemize}
+  \item Beágyazott szoftverfejlesztés egy Raspberry Pi alapú rendszerre Python-ban
+\end{itemize}
+\subsubsection{Hardverfejlesztő mérnök \rside{2025.02-2025.08}}
+\begin{itemize}
+  \item Kapcsolási rajz és NYÁK tervezés - fogyasztás és költség optimalizálás, ESP32 Raspberry Pi helyett
+  \item 3D tervezés és 3D nyomtatás - esőálló készülékház
+  \item Beültetés, összeszerelés, tesztelés
+\end{itemize}
+\section{\faFlask\enspace Releváns projectek}
+%==========
+\subsection{Audio tömörítő egység megvalósítása FPGA-val (Diplomamunka - folyamatban)}
+\begin{itemize}
+  \item MP3 encoder megvalósítása Kintex-7-es FPGA-val. Verilogban fejlesztve, RTL tervezés.
+    A cél több csatorna real-time tömörítése.
+\end{itemize}
+
+\subsection{Mezőgazdasági IoT: egy beágyazott hardver megoldás (Bsc szakdolgozat és TDK 2.hely)}
+\begin{itemize}
+  \item A gyakornoki munkám eredménye.
+\end{itemize}
+
+\subsection{\enquote{Persistence of vision} kijelző készítése}
+\begin{itemize}
+  \item STM32 uC, LED-ek, LED-vezérlő áram kimenetű shift-registerek és 
+gyorsulásérzékelő segítségével tetszőleges szöveg és ábra megjelenítése. Vastagkliens alkalmazást is készítettem hozzá C\#-ban .NET környezetben.
+\end{itemize}
+
+\subsection{Snake játék EFM32 Giant Gecko starter kit-re}
+\begin{itemize}
+  \item C-ben, egy szaktársammal együtt.
+\end{itemize}
+
+\subsection{Távirányítós autó kamerával}
+\begin{itemize}
+  \item Két szaktársammal együtt készítettük. ESP32-CAM, motorvezérlő, DC-motorok és PS4 kontroller felhasználásával. A képet egy weboldalra streamelte.
+\end{itemize}
+
+\section{\faCogs\enspace Készségek}
+%========
+\begin{description}
+  \item Angol C1, C, Verilog, Bash, Python, Altium designer, 3D nyomtatás, magabiztos felhasználói linux ismeretek, Git
+\end{description}
+
+\end{document}

@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1757362714.88471 "CV-Nyiri_Levente-english.tex" "CV-Nyiri_Levente-english.pdf" "CV-Nyiri_Levente-english" 1757362715.39578 0
+["pdflatex"] 1773307706.95185 "Levente_Nyiri_CV.tex" "Levente_Nyiri_CV.pdf" "Levente_Nyiri_CV" 1773307707.46041 0
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc" 1570828436 2952 6101deaf2e29800c3f438cc30978a854 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc" 1570828436 3152 4a83427ecb5836d2f3a977393b570b77 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1622837620 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -7,6 +7,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc" 1622837620 2906 e48aa7c95dea478a2e011bcb4f7878c9 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-osf-ot1.tfm" 1558644978 16584 ce88877aacf8888166653f1938d2728a ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-BoldItalic-osf-ot1.tfm" 1558644978 16752 b138240463813b888164ec5e35827c2e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-ot1.tfm" 1558644978 16152 c7874ac69fd8fba333ad4015125df741 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-sc-ot1--base.tfm" 1558644978 1340 d92a68a7678d0dfb07af2569da6f49d5 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-sc-ot1.tfm" 1558644978 14096 6aa56a7e93ef314595a6deb399f6f83a ""
@@ -15,6 +16,7 @@
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fontawesome5/fa5free1solid.tfm" 1622837620 1316 1c2ee668ea88be9bd4f39690662cc344 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/public/fontawesome5/fa5free2solid.tfm" 1622837620 1340 b21002f38a477f345fa9dc96a5613e2b ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb" 1554498137 485112 0bd86946afd04160ee1229d86cd76902 ""
+  "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-BoldItalic.pfb" 1554498137 482434 d28be89f64a86a90f7c92f6836c3a33e ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb" 1554498137 446511 20d2a1ad9e2e5087480615231dfe6aab ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb" 1554498137 444112 d4ec6fd57d167b6fb0e26e3bbd90a185 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb" 1651520503 295323 d099723373a00cc17d5ae0c9738bb5b3 ""
@@ -94,11 +96,11 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1754037930 5526361 5adee4aa342457daf971a29efd2119d0 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1754038062 3605723 c1007134c0de2c8854b3f827b4d39407 ""
   "/usr/local/texlive/2025/texmf.cnf" 1754037927.02921 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "CV-Nyiri_Levente-english.aux" 1757362715.34246 2346 0897fe155054f16144ab9caf1e402fc9 "pdflatex"
-  "CV-Nyiri_Levente-english.tex" 1757362713.51994 3901 0d4f539dd4ffcb0d489bc1052f0016e3 ""
   "CV-kep.png" 1757357176.91825 268663 62d7a467703c97f35799f5797062c6d7 ""
+  "Levente_Nyiri_CV.aux" 1773307707.40148 2319 46f91945ce5a61e946b61c584824593c "pdflatex"
+  "Levente_Nyiri_CV.tex" 1773307408.98053 4223 942342858b20a54086f0e0726a7ab4d1 ""
   (generated)
-  "CV-Nyiri_Levente-english.aux"
-  "CV-Nyiri_Levente-english.log"
-  "CV-Nyiri_Levente-english.pdf"
+  "Levente_Nyiri_CV.aux"
+  "Levente_Nyiri_CV.log"
+  "Levente_Nyiri_CV.pdf"
   (rewritten before read)

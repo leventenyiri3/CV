@@ -1,0 +1,77 @@
+%-------------------------
+% Rover Cover Letter - Office Template
+% Matched to Levente Nyiri's CV
+%------------------------
+
+\documentclass{article}
+
+\usepackage[sfdefault,light]{FiraSans}
+\usepackage{geometry}
+\geometry{a4paper,margin=0.8in,top=0.5in,bottom=0.5in}
+\pagestyle{empty}
+\usepackage{microtype}
+\usepackage{fontawesome5}
+\usepackage{xcolor}
+\definecolor{background}{HTML}{0D47A1}
+\usepackage[bookmarks=false,hidelinks]{hyperref}
+
+% Paragraph spacing instead of indentation
+\usepackage{parskip}
+\setlength{\parskip}{1em}
+
+\begin{document}
+
+% --- Header (Matched to CV Layout) ---
+\begin{center}
+  \begin{minipage}{0.45\textwidth}
+    {\Huge\bfseries LEVENTE NYIRI}
+  \end{minipage}\hfill
+  \begin{minipage}{0.45\textwidth}
+    \raggedleft
+    \faPhone\ +36 30 352 2867 \\
+    \href{mailto:nyiri.levente3@gmail.com}{\faEnvelope\ nyiri.levente3@gmail.com} \\
+    \faMapMarker\ 2045 Törökbálint, Magyarország \\
+    \faCalendar\ 2000. 07. 14.
+  \end{minipage}
+\end{center}
+
+\vspace{1em}
+\hrule height 1pt
+\vspace{1.5em}
+
+% --- Date and Salutation ---
+2026.03.12
+
+To the ARM Recruitment Team,
+
+I am writing to express my interest in the System IP Engineering intern position. 
+As an Electrical Engineering M.Sc. student at Budapest University of Technology and Economics, I am currently focusing on FPGA-based systems and find them fascinating. While I find low-level programming rewarding, digital design is even more compelling. This motivated me to develop an RTL-level implementation of an MP3 encoder as my M.Sc. thesis, and is why I am eager to work for ARM.
+
+
+
+While my design experience has primarily focused on Verilog (alongside exposure to block-level IP design and HLS), I am very interested in learning SystemVerilog and industry-standard verification methodologies like UVM.
+During my work on my M.Sc. thesis, I have realized the importance of verification.
+
+I have completed a number of projects relating to low-level programming, some of which I have mentioned in my CV.
+
+For my professional experience, my role as an intern was to write Python for a Raspberry Pi-based embedded system. The purpose of the project was to detect starling murmurations. The on-site device was capturing images and sending them to a server for AI-based image recognition. Since our target environments were agricultural settings such as vineyards, it was important that it worked semi-off-grid to avoid the expensive and tedious task of wiring multiple devices on a large field, leading to a design powered by a battery and a solar panel.
+This made optimizing sleep cycles for power consumption important.
+The system had a successful field test. With two of my colleagues, we also documented our work and submitted it to our university's Scientific Student Conference, and we were awarded 2nd place within our category.
+
+
+After the end of my internship, I transitioned into a part-time graduate position, working on the same project while pursuing my M.Sc. This time, learning from the flaws of the first version, my task was to design a new device that could achieve the same functionality, while improving power efficiency and reducing costs. 
+I chose an ESP32-S3 as our core because it offered the necessary performance to interface with our camera, and because it featured a Wi-Fi module built-in, along with a ULP, which was essential for managing wake-up triggers during sleep cycles. It also has a broad community, which I knew could be of help if we ran into any issues during development.
+
+I designed the PCB, ordered the parts, and soldered them. I also designed a weatherproof enclosure, 3D printed two of them, and assembled the final units. During this time, my colleague was working on the embedded software, but we collaborated closely to synchronize hardware design with firmware development. By the end, the project was a success: the devices could function all day without depleting the battery and they were more cost-effective than the first version.
+
+
+I am comfortable communicating in English (I also have a C1 certification).
+
+\vspace{2em}
+
+Sincerely,
+
+\vspace{1em}
+\textbf{Levente Nyiri}
+
+\end{document}
